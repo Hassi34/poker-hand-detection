@@ -23,6 +23,31 @@
     <img width="700" height="900" src="assets/pokerhand.jpg" alt="About Project">
 </p>
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Hassi34/poker-hand-detection.git
+```
+
+Go to the project directory
+
+```bash
+  cd poker-hand-detection
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Start the server
+
+```bash
+  python detector.py
+```
 #### **Thank you for visiting 🙏 I hope you find this project useful**<br><br>
 
 #### **📃 License**
